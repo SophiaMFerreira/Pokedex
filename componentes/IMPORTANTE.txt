@@ -1,0 +1,6 @@
+npm install @react-navigation/stack
+npx expo install react-native-gesture-handler
+npx expo install @react-native-masked-view/masked-view
+
+npm install @react-navigation/material-top-tabs react-native-tab-view
+npm install react-native-pager-view
