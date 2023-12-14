@@ -1,4 +1,4 @@
-# <img src="img_Telas/Pokebola.png" width="25px"> Projeto Pokédex 
+# <img src="Img_Telas/Pokebola.png" width="25px"> Projeto Pokédex 
 
 
 ## Índice
@@ -36,11 +36,11 @@ Ao entrar no aplicativo a primeira tela com que o usuário se depara contém:
 Quando o usuário clica em um Pokémon será direcionado a uma nova tela (tela 02 - Informações Básicas) com informações básicas.
 
 1. Tela do jogo oficial
-![Tela 01 (home) oficial](img_Telas/tela_01_oficial.jpeg)
+![Tela 01 (home) oficial](Img_Telas/tela_01_oficial.jpeg)
 
 2. Projeção para tela da aplicação
 
-<img src="img_Telas/Tela_01_home.png" alt="Tela 01 - Home" width="400px">
+<img src="Img_Telas/Tela_01_home.png" alt="Tela 01 - Home" width="400px">
 
 ### Tela 02 - Informações Básicas
 
@@ -58,10 +58,10 @@ Ademais a tela conta com as seguintes opções na parte superior para realizar a
 
 1. Tela do jogo oficial:
 
-![Tela 01 oficial](img_Telas/tela_02_oficial.jpeg)
+![Tela 01 oficial](Img_Telas/tela_02_oficial.jpeg)
 2. Projeção para tela da aplicação
 
-<img src="img_Telas/Tela_02_informacoes_basicas.png" alt="Tela 02 - Informações Básicas" width="400px">
+<img src="Img_Telas/Tela_02_informacoes_basicas.png" alt="Tela 02 - Informações Básicas" width="400px">
 
 
 ### Tela 03 - Informações Específicas
@@ -80,11 +80,11 @@ Ainda a tela possui as opções na parte superior de troca de tela:
 
 1. Tela do jogo oficial
 
-![Tela 01 oficial](img_Telas/tela_03_oficial.jpeg)
+![Tela 01 oficial](Img_Telas/tela_03_oficial.jpeg)
 
 2. Projeção para tela da aplicação
 
-<img src="img_Telas/Tela_03_informacoes_especificas.png" alt="Tela 03 - Informações Específicas" width="400px">
+<img src="Img_Telas/Tela_03_informacoes_especificas.png" alt="Tela 03 - Informações Específicas" width="400px">
 
 
 ## Alunos Responsáveis
