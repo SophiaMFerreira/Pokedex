@@ -35,13 +35,9 @@ export default function Home({ navigation, route }) {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
     backgroundColor: '#434c43',
     alignItems: 'center',
     justifyContent: 'center',
     padding: 20
-  },
-  test: {
-    fontSize: 20,
   },
 });

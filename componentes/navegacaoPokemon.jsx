@@ -5,15 +5,15 @@ import PokeInfo2 from '../telas/pokeInfo2';
 const Tab = createMaterialTopTabNavigator();
 
 export default function NavPokemon({ idPokemon }) {
-  console.log('idPokemon')
-  console.log(idPokemon)
+  //console.log('idPokemon')
+  //console.log(idPokemon)
 
   const id = idPokemon
 
   return (
     <Tab.Navigator initialRouteName='Informações Gerais'>
-      <Tab.Screen name="Informações Gerais" component={PokeInfo1} initialParams={{ itemId: id }}/>
-      <Tab.Screen name="Base Stats" component={PokeInfo2} initialParams={{ itemId: 400 }} />
+      <Tab.Screen name="Informações Gerais" component={PokeInfo1} initialParams={{idPokemon}}/>
+      <Tab.Screen name="Base Stats" component={PokeInfo2} initialParams={{idPokemon}} />
     </Tab.Navigator>
   );
 }

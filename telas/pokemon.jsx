@@ -18,12 +18,6 @@ export default function Pokemon({route}) {
     }, []
     )
 
-    /*
-    useEffect( () =>{
-        console.log(pokemon.name)
-    },[pokemon])
-    */
-
     return (
         <>
             <View style={styles.container}>
@@ -36,7 +30,7 @@ export default function Pokemon({route}) {
                     <Text style={styles.texto}>{pokemon?.name}</Text>
                 </View>
                 <NavigationContainer independent={true} >
-                    <NavPokemon idPokemon={pokemon?.id}/>
+                    <NavPokemon idPokemon={idPokemon}/>
                 </NavigationContainer>
                 <StatusBar style="auto" />
             </View>

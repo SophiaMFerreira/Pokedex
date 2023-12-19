@@ -21,7 +21,7 @@ export async function salvarPokemons(pokemons) {
 export async function buscarPokemons() {
     //Montando as URLs
     const urls = []
-    for (let i = 1; i <= 9; i++) {
+    for (let i = 1; i <= 260; i++) {
         urls.push(`https://pokeapi.co/api/v2/pokemon/${i}`)
     }
 
